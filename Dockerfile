@@ -1,6 +1,6 @@
 # Base image:
 FROM golang:1.11
-LABEL Mantainer=Creatiweb
+LABEL Mantainer=FedericoBevione
 
 # Install golint
 ENV GOPATH /go
